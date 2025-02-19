@@ -4441,6 +4441,7 @@ EDSData.SBST = {
                     "TIONG BAHRU RD",
                     "LOWER DELTA RD",
                     "BUKIT PURMEI AVE"
+                     "GOOD SERVICE"
                 ],
                 scrollFont: "LECIP-8"
             },
