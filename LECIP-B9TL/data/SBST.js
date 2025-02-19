@@ -6620,6 +6620,27 @@ EDSData.SBST = {
             }
         }
     },
+     125: {
+        1: {
+            front: {
+                renderType: "standardService",
+                serviceNumber: "125",
+                destination: "> VISTA CENTRAL INT",
+                destinationFont: "LECIP-10",
+                scrolls: [
+                    'CENTRAL DR',
+                    'LORONG KITARI',
+                    'VISTA CRESENT'
+                ],
+                scrollFont: "LECIP-7:5"
+            },
+            rear: {
+                renderType: "rearService",
+                serviceNumber: "125",
+                font: "LECIP-20:12",
+                spacing: 2
+            }
+        },
     88: {
         1: {
             front: {
