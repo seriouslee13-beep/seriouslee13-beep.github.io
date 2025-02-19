@@ -9385,50 +9385,7 @@ EDSData.SBST = {
             }
         }
     },
-    125: {
-        1: {
-            front: {
-                renderType: "standardService",
-                serviceNumber: "125",
-                destination: "> SIMS DR",
-                destinationFont: "LECIP-10",
-                scrolls: [
-                    'BALESTIER RD',
-                    'SERANGOON RD',
-                    'KALLANG WAY',
-                    'ALJUNIED RD'
-                ],
-                scrollFont: "LECIP-7:5"
-            },
-            rear: {
-                renderType: "rearService",
-                serviceNumber: "125",
-                font: "LECIP-20:9",
-                spacing: 2
-            }
-        },
-        2: {
-            front: {
-                renderType: "standardService",
-                serviceNumber: "125",
-                destination: "> ST.MICHAEL'S TER",
-                destinationFont: "LECIP-7:5",
-                scrolls: [
-                    'ALJUNIED RD',
-                    'KALLANG WAY',
-                    'BENDEMEER RD',
-                    'BALESTIER RD'
-                ],
-                scrollFont: "LECIP-7:5"
-            },
-            rear: {
-                renderType: "rearService",
-                serviceNumber: "125",
-                font: "LECIP-20:9",
-                spacing: 2
-            }
-        }
-    },
+
     "125A": {
         1: {
             front: {
