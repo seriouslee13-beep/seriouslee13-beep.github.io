@@ -698,13 +698,13 @@ EDSData.SBST = {
         1: {
             front: {
                 renderType: "swt",
-                serviceNumber: "2A",
-                terminateAt: "NEW UPPER CHANGI",
-                landmark: "RD (BEDOK STN)"
+                serviceNumber: "125",
+                terminateAt: "VISTA CENTRAL INT",
+                landmark: "CENTRAL STN."
             },
             rear: {
                 renderType: "rearService",
-                serviceNumber: "2A",
+                serviceNumber: "125",
                 font: "LECIP-20:12",
                 spacing: 2
             }
@@ -712,13 +712,13 @@ EDSData.SBST = {
         2: {
             front: {
                 renderType: "swt",
-                serviceNumber: "2A",
-                terminateAt: "NEW UPPER CHANGI",
-                landmark: "RD (TANAH MERAH STN EXIT A)"
+                serviceNumber: "125",
+                terminateAt: "BLKS 217",
+                landmark: "(TANAH MERAH STN EXIT A)"
             },
             rear: {
                 renderType: "rearService",
-                serviceNumber: "2A",
+                serviceNumber: "125",
                 font: "LECIP-20:12",
                 spacing: 2
             }
