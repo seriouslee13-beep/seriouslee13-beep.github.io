@@ -2132,6 +2132,30 @@ EDSData.SBST = {
             }
         }
     },
+        371: {
+        1: {
+            front: {
+                renderType: "standardService",
+                serviceNumber: "371",
+                destination: "> SENGKANG INT",
+                destinationFont: "Hanover-10",
+                scrolls: [
+                    "SENGKANG EAST WY",
+                    "COMPASSVALE DR",
+                    "RIVERVALE DR",
+                    "RIVERVALE IDK",
+                    "RIVERVALE CRES"
+                ],
+                scrollFont: "Hanover-7:5"
+            },
+            rear: {
+                renderType: "rearService",
+                serviceNumber: "371",
+                font: "Hanover-19:11",
+                spacing: 2
+            }
+        },
+    },
     400: {
         1: {
             front: {
