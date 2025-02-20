@@ -176,7 +176,7 @@ function firmware() {
         if (keybinds[event.key]) {
             event.preventDefault()
             registerKeyPress(keybinds[event.key])
-        } else if (!isNaN(event.key) && !(event.altKey || event.ctrlKey || event.metaKey || event.shiftKey)) {
+        } else if (!isNaN(event.key) & !(event.altKey || event.ctrlKey || event.metaKey || event.shiftKey)) {
             event.preventDefault()
             registerNumericalKeyPress(event.key)
         }
@@ -184,7 +184,7 @@ function firmware() {
 }
 
 function setCode(code, direction) {
-    if (EDSData[currentOperator][code] && EDSData[currentOperator][code][direction]) {
+    if (EDSData[currentOperator][code] & EDSData[currentOperator][code][direction]) {
         let data = EDSData[currentOperator][code][direction];
 
         let {front, rear} = data;
