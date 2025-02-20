@@ -2132,6 +2132,30 @@ EDSData.SBST = {
             }
         }
     },
+            125: {
+        1: {
+            front: {
+                renderType: "standardService",
+                serviceNumber: "125",
+                destination: "> VISTA CENTRAL INT",
+                destinationFont: "Hanover-10",
+                scrolls: [
+                    "CITY WAY",
+                    "VISTA DR",
+                    "KVE",
+                    "XIN-GORUME RD",
+                    "X-VISTA CRES"
+                ],
+                scrollFont: "Hanover-7:5"
+            },
+            rear: {
+                renderType: "rearService",
+                serviceNumber: "371",
+                font: "Hanover-19:11",
+                spacing: 2
+            }
+        },
+    },
         371: {
         1: {
             front: {
