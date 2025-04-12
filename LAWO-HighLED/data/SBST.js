@@ -262,14 +262,14 @@ EDSData.SBST = {
         1: {
             front: {
                 renderType: "brandedSvc",
-                serviceNumber: "1N",
-                branding: "NIGHT  OWL",
+                serviceNumber: "TS",
+                branding: "TEST BUS",
                 font: "LAWO-26:14",
                 spacing: 2
             },
             rear: {
                 renderType: "rearService",
-                serviceNumber: "1N",
+                serviceNumber: "TS",
                 font: "LAWO-26:14",
                 spacing: 2
             }
