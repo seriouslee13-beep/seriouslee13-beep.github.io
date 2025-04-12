@@ -353,9 +353,9 @@ EDSData.SMRT = {
         1: {
             front: {
                 renderType: "calibriStandardService",
-                serviceNumber: "NR2",
+                serviceNumber: "TST",
                 destination: {
-                    text: "MARINA CENTRE",
+                    text: "TEST BUS",
                     font: "Calibri-7"
                 },
                 scrolls: [""],
