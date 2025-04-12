@@ -241,6 +241,16 @@ EDSData.SBST = { //Add Spacing 3 spacing for Dest and Scroll
             }
         }
     }
+        7: {
+        1: {
+            front: {
+                renderType: "message",
+                text: "OFF SERVICE",
+                font: "Hanover-19:11",
+                spacing: 2
+            }
+        }
+    }
 }
 
 EDSImages.SBST = {
