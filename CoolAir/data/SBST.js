@@ -524,7 +524,7 @@ EDSData.SBST = {
                         top: "I AM THE",
                         topFont: "Mobitec-7:4",
 
-                        bottom: "WORST SERVICE",
+                        bottom: "BEST SERVICE",
                         bottomFont: "Mobitec-7:4"
                     },
                     "BUKIT PURMEI AVE",
